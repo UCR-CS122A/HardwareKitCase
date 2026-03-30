@@ -5,9 +5,9 @@ Below are links to the STL files for all the parts of the CS 122A Lab Kit Case. 
 ## STL Files
 |Part Name                   |STL File Link                                            |
 |----------------------------|---------------------------------------------------------|
-|Base                        | [Downlaod](CS122A-LabKit-Base.stl)                      |
-|Lid                         | [Downlaod](CS122A-LabKit-Lid.stl)                       |
-|Icesugar Adapter            | [Downlaod](CS122A-LabKit-Icesugar-Adapter.stl)          |
-|Arduino Adapter             | [Downlaod](CS122A-LabKit-Arduino-Adpater.stl)           |
+|Base                        | [Download](CS122A-LabKit-Base.stl)                      |
+|Lid                         | [Download](CS122A-LabKit-Lid.stl)                       |
+|Icesugar Adapter            | [Download](CS122A-LabKit-Icesugar-Adapter.stl)          |
+|Arduino Adapter             | [Download](CS122A-LabKit-Arduino-Adpater.stl)           |
 |Display Stand               | TBD                                                     |
-|Display Stand (Touchscreen) | [Downlaod](CS122A-LabKit-Display-Stand-Touchscreen.stl) |
+|Display Stand (Touchscreen) | [Download](CS122A-LabKit-Display-Stand-Touchscreen.stl) |
